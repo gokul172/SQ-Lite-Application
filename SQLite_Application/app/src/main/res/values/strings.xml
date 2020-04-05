@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_contact">Add Notes</string>
+    <string name="name">Subject</string>
+    <string name="Button_Update_Text">Update Contact</string>
+    <string name="action_contact_dialog_title">Action Required</string>
+    <string name="ok">OK</string>
+    <string name="cancel">cancel</string>
+    <string name="edit">Edit</string>
+</resources>
